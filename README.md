@@ -23,4 +23,4 @@
 ---
 
 ### Acesse pelo Deploy - Link abaixo:
-https://vercel.com/adriana-coderstar/project-shopping-cart
+https://project-shopping-cart-seven.vercel.app/
